@@ -5,6 +5,9 @@
     <Project Path="Lingo.Domain/Lingo.Domain.csproj" />
     <Project Path="Lingo.Infrastructure/Lingo.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/data/">
+    <File Path="TDK_Sözlük_Kelime_Listesi.txt" />
+  </Folder>
   <Folder Name="/frontend/" />
   <Folder Name="/tests/">
     <Project Path="Lingo.Tests/Lingo.Tests.csproj" />

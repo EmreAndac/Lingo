@@ -58,6 +58,9 @@ dlldata.c
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
+# Lingo dictionary datasets
+TDK_Sözlük_Kelime_Listesi.txt
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
