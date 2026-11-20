@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="Lingo.Api/Lingo.Api.csproj" />
+    <Project Path="Lingo.Application/Lingo.Application.csproj" />
+    <Project Path="Lingo.Domain/Lingo.Domain.csproj" />
+    <Project Path="Lingo.Infrastructure/Lingo.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/frontend/" />
+  <Folder Name="/tests/">
+    <Project Path="Lingo.Tests/Lingo.Tests.csproj" />
+  </Folder>
+</Solution>
